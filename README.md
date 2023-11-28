@@ -56,7 +56,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/snake.svg" alt="Snake animation" />
+
 
 <!--counter-->
 <div align="center">
