@@ -1,33 +1,26 @@
-<h2 align="left">Hi 👋!, I'm Vinicius!</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Vinicius+Monteiro;I'm+27+years+old;I+am+from+São+Paulo,+SP;I'm+a+Programming+student+at+Generation+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" height="150" src="https://media1.giphy.com/media/VZVq0YRdNS1IpBaKSG/giphy.gif?cid=ecf05e477w6gkvd4o1yff9oo3w6j48pbb0ww6daywmnud7we&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<p align="left">🔭 I’m currently study on <a href="https://brazil.generation.org"> Generation Brazil</a><br>🌱 I’m currently learning Java, Spring Boot, SQL, React, TypeScript<br>📫 <a href=mailto:moonkraft_dev@outlook.com>Contact me via e-mail</a><br>💻 I love games and Animes :)<br>💜I love following Jesus Christ!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="148" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcs-vinicius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Monteiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-vinicius&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-###
 
-<h3 align="left">💻Tech Stack:</h3>
 
-###
-
-<h3 align="left">Font-End</h3>
 
 ###
 
-<div align="left">
+<h3 align="center">💻Tech Stack:</h3>
+
+###
+
+<h3 align="center">Font-End</h3>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -43,11 +36,11 @@
 
 ###
 
-<h3 align="left">Back-End/Tools</h3>
+<h3 align="center">Back-End/Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -84,4 +77,5 @@
 ###
 
 
-![snake gif](https://github.com/mcs-vinicius/mcs-vinicius/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
