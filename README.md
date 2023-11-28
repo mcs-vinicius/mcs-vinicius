@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+</div><br>
 
 <!--Social Media-->
 <div align="center">
@@ -56,20 +56,23 @@
   </a>
 </div>
 
-<!--counter-->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mcs-vinicius}/count.svg" /></p> 
 
 
-<picture>
+<!--Snake-->
+<div align="center"> 
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
-</picture>
+  </picture>
+</div>
 
+<!--counter-->
+<div align="center">
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mcs-vinicius}/count.svg" /></p> 
 </div>
 
 
 <!--footer-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=150&section=footer"/>
