@@ -85,4 +85,5 @@
 
 
 ![Snake animation](https://github.com/mcs-vinicius/mcs-vinicius/blob/output/github-contribution-grid-snake.svg)
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?mcs-vinicius=mcs-vinicius&repo=mcs-vinicius&theme=react)](https://github.com/mcs-vinicius/mcs-vinicius)
