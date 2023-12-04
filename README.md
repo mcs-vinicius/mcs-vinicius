@@ -8,7 +8,7 @@
 </div>
 
 <!--Skils-->
-<h3 align="center">💻Main skils:</h3>
+<h3 align="center">💻Main skils</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
