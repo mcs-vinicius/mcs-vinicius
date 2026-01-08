@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F3FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Vinicius+Monteiro;I'm+27+years+old;I'm+from+São+Paulo,+SP;Graduated+in+Systems+Analysis+-+Unicsul;Postgraduate+Agile+Projects+For+Mobile+-+Anhembi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&show_icons=true&count_private=true&hide_border=true&theme=radical&include_all_commits=true" alt="Vinicius Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-vinicius&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" alt="Vinicius Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcs-vinicius&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
 </div>
 
 <h3 align="center" style="color: #00F3FF">💻Main skils</h3>
