@@ -1,19 +1,12 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9D00FF,FF0080&height=150&section=header&text=Vinicius%20Monteiro&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=55&desc=System%20Analyst&descSize=20&descAlign=62&descAlignY=82&descColor=fff"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=150&section=header"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=30&font=Fira+Code&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Vinicius+Monteiro;I'm+27+years+old;System_Analyst.exe+loaded...;Postgraduate+Agile+Projects;Initializing+Portfolio...;Be+Welcome!+:%29" alt="Typing SVG" />
-  </a>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F3FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Vinicius+Monteiro;I'm+27+years+old;I'm+from+São+Paulo,+SP;Graduated+in+Systems+Analysis+-+Unicsul;Postgraduate+Agile+Projects+For+Mobile+-+Anhembi;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&show_icons=true&count_private=true&hide_border=true&theme=synthwave" alt="Vinicius Monteiro github stats" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-vinicius&layout=compact&hide_border=true&theme=synthwave" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mcs-vinicius&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Vinicius Monteiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-vinicius&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-<h3 align="center" style="color:#FF0080">💻 Main Skills</h3>
+<h3 align="center" style="color: #00F3FF">💻Main skils</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -34,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<h3 align="center" style="color:#FF0080">🛠️ Tools</h3>
+<h3 align="center" style="color: #00F3FF">Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
@@ -49,26 +42,30 @@
 
 <div align="center">
   <a href="https://www.instagram.com/moonkraft/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=9D00FF&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="instagram logo" style="text-decoration: none";  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1F1F1F&logoColor=E4405F&labelColor=1F1F1F&style=for-the-badge" height="35" alt="instagram logo" style="text-decoration: none";  />
   </a>
   <a href="https://www.linkedin.com/in/viniciusmcsilva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1F1F1F&logoColor=0077B5&labelColor=1F1F1F&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
   <a href="mailto:moonkraft_dev@outlook.com" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=1a1a1a&style=for-the-badge" height="35" alt="microsoft-outlook logo"/>
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=1F1F1F&logoColor=0078D4&labelColor=1F1F1F&style=for-the-badge" height="35" alt="microsoft-outlook logo"/>
   </a>
 </div>
 
+
+
 <div align="center"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mcs-vinicius/mcs-vinicius/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mcs-vinicius}/count.svg" /></p> 
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mcs-vinicius}/count.svg" /></p> 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0080,9D00FF&height=100&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24243e,302b63,0f0c29&height=150&section=footer"/>
